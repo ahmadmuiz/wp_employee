@@ -31,6 +31,7 @@ class CustomAuthProvider extends ServiceProvider {
     public function register()
     {
         //
+        //
     }
 
 }
